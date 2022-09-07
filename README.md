@@ -1,6 +1,6 @@
 # Loan-Prediction-ML-Model-Deployed-using-Streamlit
 
-In this repo, you can find a Logistic regression model deployment using Streamlit, which predicts whether the applicate will get the loan or not based on the following Factors-
+In this repo, you can find a Logistic regression model deployment using Streamlit, which predicts whether the applicant will get the loan or not based on the following Factors-
 1. Gender
 2. Marital status
 3. EducationLoan Amount
